@@ -1,7 +1,6 @@
 # Construction Project Management Ontology Network (NEST2024)
 
 ## Contact
-* **Creators(s)**
   * [Cassandro, Jacopo](https://orcid.org/0000-0002-1487-8178)
     [[ORCID]](https://orcid.org/0000-0002-1487-8178)
     (<jacopo.cassandro@polimi.it></a>) of [Politecnico di Milano](https://www.dabc.polimi.it/persona/jacopo-cassandro/)
