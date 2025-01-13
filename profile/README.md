@@ -1,4 +1,5 @@
 # Construction Project Management Ontology Network (NEST2024)
+This is a repository for storing results of the joint NEST project at Politecnico di Milano. Scientific results will be published at the European Conference of Computing in Construction 2025 (EC3) and Linked Data in Architecture and Construction 2025 (LDAC). In this repository, you can find ontologies and example files.
 
 ## Contact
   * [Cassandro, Jacopo](https://orcid.org/0000-0002-1487-8178)
